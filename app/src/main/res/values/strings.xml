@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToTheSpec - PC BenchMark </string>
+    <string name="send_button">SEND</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="share_post">Email Post</string>
+    <string name="share_post_blog">Blog Post</string>
+    <string name="search_hint">Search for Post</string>
+</resources>
